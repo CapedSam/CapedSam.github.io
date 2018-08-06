@@ -1375,11 +1375,16 @@ body {
 .cid-qZUhFd2Jxe {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/sam-portrait-2000x419.jpg");
+  background-image: url("../../../assets/images/stockholm-archipelago-2000x2000.jpg");
+}
+.cid-qZUhFd2Jxe .media-container-row {
+  flex-direction: row-reverse;
 }
 @media (min-width: 992px) {
   .cid-qZUhFd2Jxe .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
