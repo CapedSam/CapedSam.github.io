@@ -709,6 +709,19 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-rnPZ5ZaX5L {
+  background: #000000;
+  padding-top: 15px;
+  padding-bottom: 0px;
+}
+.cid-rnPZ5ZaX5L .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rnPZ5ZaX5L .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rnPXEClk1R {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -819,19 +832,6 @@ section.lazy-placeholder:after {
 }
 .cid-qZZVAetgcZ P {
   text-align: right;
-}
-.cid-rnPZ5ZaX5L {
-  background: #000000;
-  padding-top: 15px;
-  padding-bottom: 0px;
-}
-.cid-rnPZ5ZaX5L .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-rnPZ5ZaX5L .video-block {
-    width: 100% !important;
-  }
 }
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
