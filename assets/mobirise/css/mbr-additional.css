@@ -709,6 +709,31 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
+.cid-sSi9lRbD23 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+.cid-sSi9lRbD23 .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-sSi9lRbD23 .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sSi9lRbD23 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sSi9lRbD23 .mbr-text {
+    text-align: center;
+  }
+}
 .cid-sKJoOVYkn9 {
   padding-top: 15px;
   padding-bottom: 120px;
